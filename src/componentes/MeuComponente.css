@@ -1,0 +1,16 @@
+/*No header temos 300px de altura ele é do tamanho da tela 
+Ele tem uma borda amarela de 2px solida
+Dentro da tag header nos temos uma div com o texto "logo" de tamanho 200x200px centralizada na vertical a 30px da lateral esquerda */
+
+header{
+    width: max-content;
+    height: 30rem;
+    border: solid 0.2rem yellow;
+}
+div{
+    width: 20rem;
+    height: 20rem;
+    vertical-align: middle;
+    margin-left: 3rem;
+    border: solid 0.2rem red;
+}
